@@ -1,5 +1,5 @@
 import Image from "next/image";
-import GlassCard from "@/components/ui/GlassCard";
+import GlassCard from "@/app/components/ui/GlassCard";
 
 export default function Details() {
   return (
