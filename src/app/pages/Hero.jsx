@@ -12,7 +12,7 @@ export default function Hero() {
       />
 
       {/* Dark Gradient Overlay */}
-      <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/60 to-black/90" />
+      <div className="absolute inset-0 bg-linear-to-b from-black/80 via-black/60 to-black/90" />
 
       {/* Content */}
       <div className="relative z-10 flex items-center justify-center h-full px-4">
